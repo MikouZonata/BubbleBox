@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75044814d5af7c54eaa8ebe4f5daf185, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: 
+  pickMeUpData:
+    texts:
+    - 'Hey! Houd je linker of
+
+      rechter muisknop in om
+
+      mij op te pakken.'
+    cooldownTime: 3
+  niceToMeetYouData:
+    texts:
+    - 'Hoi, wat leuk om je van
+
+      dichtbij te ontmoeten!'
+    - 'Je kunt op deze manier met
+
+      de muis van alles oppakken.'
+    - 'Laat de muisknop los om
+
+      mij weer los te laten.'
+    cooldownTime: 4
+  getShakenData:
+    texts:
+    - WhooOOOooOooOOwWw!!
+    cooldownTime: 0.4
+  goExploreData:
+    texts:
+    - 'Probeer dingen op te
+
+      pakken, te schudden
+
+      en te combineren.'
+    - 'Er valt van alles
+
+      te ontdekken!'
+    - 'Misschien lukt het je
+
+      zelfs om mijn schaap
+
+      te vinden...'
+    cooldownTime: 7
